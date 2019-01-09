@@ -1,1 +1,2 @@
 Trying to keep the files different.
+This is the second line in the text file
